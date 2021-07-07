@@ -1,2 +1,2 @@
 # linq
-linq wthi LINQPad
+linq with LINQPad
