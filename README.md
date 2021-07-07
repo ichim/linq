@@ -1,0 +1,2 @@
+# linq
+linq wthi LINQPad
